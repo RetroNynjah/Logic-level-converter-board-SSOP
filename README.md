@@ -1,4 +1,4 @@
-# Logic-level-converter-board
+# Logic level converter board (SSOP)
 A bi-directional high-speed TTL-Compatible level shifter board 5V ⇄ 3V3 for tinkering
 
 This fork replaces the currently hard to find TSSOP package with the more available SSOP package.  
@@ -6,10 +6,10 @@ Only a few small adjustments had to be made to make room for the larger chip.
 ***
 
 <a href="images/screenshot_pic1.png">
-<img src="images/screenshot_pic1.png" width="312" height="296">
+<img src="images/screenshot_pic1.png" height="300">
 </a>
 <a href="images/screenshot_pic2.png">
-<img src="images/screenshot_pic2.png" width="312" height="296">
+<img src="images/screenshot_pic2.png" height="300">
 </a>
 <a href="images/SW_7x7x12mm_DPDT.jpg">
 <img src="images/SW_7x7x12mm_DPDT.jpg" width="200" height="200">
